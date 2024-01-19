@@ -6,8 +6,8 @@ My name is Mario and I am a full stack software developer. I have worked in priv
 Here is a list of things that would define me:
 
 ##  I usually work with 🔭
-- Java stack: Java (11, 17) microservices with maven and Springboot.
-- Node JS: Typescript, Express JS, Angular, React.
+- Java stack: Java (11, 17, 21) microservices with maven, Springboot, Micronaut, Jakarta Web Services.
+- Node JS: Typescript, Express JS, Angular.
 
 ## I am learning 🌱 
 
