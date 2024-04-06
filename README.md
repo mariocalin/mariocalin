@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Mario and I am a full stack software developer. I have worked in private companies as well as public organizations. Currently I write some lines for [Autentia](https://github.com/autentia)
+My name is Mario and I am a full stack software developer. I have worked in private companies as well as public organizations.
 
 ---
 Here is a list of things that would define me:
